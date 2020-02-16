@@ -24,3 +24,14 @@ In the future, we intend to reach out to stakeholders such as Neo Garden, Orange
 ## Inspiration
 
 When we entered university, we realised the abundance of events with catered food. As with most of such events, over-ordering is a common occurrence (40% of people over-cater!) and large portions of food go into the bin unconsumed. This got us thinking about the bigger picture: the state of catering in Singapore. Everyday, hundreds of catering events take place, with a large portion of this food going to waste. Imagine the impact that bringing these unconsumed food to those who need it more will have! This is the gap we aim to bridge.
+
+## Some Snippets
+
+![image](https://user-images.githubusercontent.com/56498321/74599015-8db5e700-50b6-11ea-8602-6ccae7a4bc95.png)
+![image](https://user-images.githubusercontent.com/56498321/74599027-c0f87600-50b6-11ea-8f1d-de51d34d9c50.png)
+![image](https://user-images.githubusercontent.com/56498321/74599028-c48bfd00-50b6-11ea-9d55-adb35707d66b.png)
+![image](https://user-images.githubusercontent.com/56498321/74599029-c786ed80-50b6-11ea-91be-f9bb74fe5a73.png)
+![image](https://user-images.githubusercontent.com/56498321/74599030-c9e94780-50b6-11ea-9601-7f2efc4b9ed2.png)
+![image](https://user-images.githubusercontent.com/56498321/74599034-cc4ba180-50b6-11ea-9cf9-bc57a24d2c51.png)
+![image](https://user-images.githubusercontent.com/56498321/74599036-ceadfb80-50b6-11ea-8d76-cba2527e9835.png)
+![image](https://user-images.githubusercontent.com/56498321/74599039-d2418280-50b6-11ea-93a6-e23eb24bee62.png)
