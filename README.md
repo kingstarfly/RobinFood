@@ -1,13 +1,26 @@
-# RobinFood
+## Pitch
 
-**Formal problem statement including definition of the target and brief description and outline of the approach. This is like an abstract and must not be more than 200 words. **
+Robin Food is a solution developed to target the issue of excessive food waste and food insecurities in Singapore, with the aid of our mobile application (Android & IOS).
 
-Our team intends to tackle the theme of Climate Action (SDG 13) by tackling food waste.
+Inspiration:
+When we entered university, we realised the abundance of events with catered food. As with most of such events, over-ordering is a common occurrence (40% of people over-cater!) and large portions of food go into the bin unconsumed. In addition, the leftover utensils and serviettes will be disposed off despite being un-used. This got us thinking about the bigger picture: the state of catering in Singapore. Everyday, hundreds of catering events take place, with a large portion of this food and un-used plastic utensils / serviettes going to waste. Imagine the impact of bringing these unconsumed food to those who need it more will have! This is the gap we aim to bridge.
 
-In Singapore, 763 million kg of food waste was generated in 2018. But one in ten Singaporeans still experience poverty and are food insecure. Seeing that one of the largest contributors to food waste is food caterers, we intend to create a mobile application that connects food caterers to charity organisations by facilitating the process of food collection.
+## Overview
 
-Caterers can post photos and details of leftover food from an event, and charities can decide to accept postings. Thereafter, that charity will travel to the buffet location to collect food that they deem desirable.
+Coded with React Native (JavaScript) and Firebase, Robin Food is a mobile application that is available on both Android and IOS platform. Robin Food connects caterers with welfare organisations who already have an existing system of transportation/distribution of food to food-insecure people. The application is an intuitive Android and iOS app where caterers can post events across Singapore where there are leftover food and charity organisations can accept those that they want and communicate with caterers to pick up the food. New events are updated in real-time and not only can caterers track the events they have posted, there is also a leader board where they can see their standing and enjoy a friendly competition with other caterers over their corporate social responsibility.
 
-Apart from food waste, we also aim to contribute to the movement of zero-waste by encouraging food caterers to donate their unused disposable cutleries and paper napkins to the same charity organisations.
+## Accomplishments
 
-We hope to incentivise food caterers to join as partners by publicly acknowledging their efforts and promoting their brand name. From the perspective of the caterers, it will fulfill their corporate social responsibility, improving their brand image. This is important because more customer preferences are shifting towards more sustainability.
+As our team consists of only freshmen, with each of us having minimal experience, we are glad that each of us were able to apply our skills in finishing the product, as well as learning from one another.
+
+## Difficulties Faced
+
+As there was a recent Android update to androidx, many online tutorials that we followed were outdated, resulting in the occurrences of bugs. Even though some of our Java code did not make into the final product, we were ultimately very heartened to have started off with a 2-pronged approach. Because of this, we learnt more than we otherwise would (like creating an Android app with login functionalities, a Bottom Navigation Bar and the works in Java).
+
+## Future Work
+
+In the future, we intend to reach out to stakeholders such as Neo Garden, Orange Clove, Food Bank SG and Willing Hearts to find out what other functionalities they want from such an app. We aim to distribute this app to interested stakeholders in SG and beyond so that this perennial issue of food wastage can be minimised.
+
+## Inspiration
+
+When we entered university, we realised the abundance of events with catered food. As with most of such events, over-ordering is a common occurrence (40% of people over-cater!) and large portions of food go into the bin unconsumed. This got us thinking about the bigger picture: the state of catering in Singapore. Everyday, hundreds of catering events take place, with a large portion of this food going to waste. Imagine the impact that bringing these unconsumed food to those who need it more will have! This is the gap we aim to bridge.
