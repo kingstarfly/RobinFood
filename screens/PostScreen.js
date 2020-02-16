@@ -36,7 +36,6 @@ export default class PostScreen extends React.Component {
         this.setState({ ...this.state, name: user.displayName });
       }
     });
-    this.getPhotoPermission();
   }
 
   componentWillUnmount() {
